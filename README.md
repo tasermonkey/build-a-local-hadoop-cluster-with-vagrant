@@ -15,7 +15,7 @@ $: vagrant up
 $: vagrant ssh master
 $: sudo su -
 $: cd /opt/hadoop-2.2.0
-$: ./bin/start-all.sh
+$: ./sbin/start-all.sh
 ```
 
 This is the first of a series of tutorials. This one gives you an introduction to vagrant and puppet, as well as
